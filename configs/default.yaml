@@ -1,0 +1,5 @@
+hotspot:
+  delta_c: 10
+  min_area: 20
+panel:
+  min_area: 500
